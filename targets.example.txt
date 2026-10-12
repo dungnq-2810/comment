@@ -1,0 +1,4 @@
+# Mỗi dòng = 1 link video TikTok cần seeding comment.
+# Dòng bắt đầu bằng # là ghi chú, sẽ bị bỏ qua.
+https://www.tiktok.com/@tiktok/video/7000000000000000001
+https://www.tiktok.com/@tiktok/video/7000000000000000002

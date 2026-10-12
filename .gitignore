@@ -1,0 +1,8 @@
+node_modules/
+accounts.json
+comments.txt
+targets.txt
+cookies-*.json
+screenshots/
+*.log
+.DS_Store
